@@ -37,6 +37,7 @@ class _HomePageState extends State<HomePage> {
     'เหงานิดหน่อย แต่กินข้าวอร่อยเหมือนเดิม',
     'วันนี้ไม่เห็นค่า วันหน้าก็ได้ เราว่างทุกวันแหละ',
     'ยามใดที่เราทุกข์ ชาไข่มุกคือพลัง'
+    'หนูไม่กินผัก'
   ];
   static const List<Color> colorList = [
     Colors.pinkAccent,
